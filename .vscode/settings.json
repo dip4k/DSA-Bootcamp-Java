@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "lectures/07-methods/code/src",
+        "Solutions/04-functions/04_java",
+        "Solutions/02-first-java/02_java",
+        "Solutions/05-Arrays/05_java"
+    ]
+}
